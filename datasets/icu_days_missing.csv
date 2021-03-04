@@ -1,0 +1,27 @@
+id,sex,admtype,discharge,age,prism,ndays
+4303,Female,,Alive,1,5,7
+3304,,Not planned,Alive,83,14,4
+18202,Male,Not planned,Alive,,4,2
+7704,Female,Planned,Alive,134,,6
+16402,Male,Not planned,Deceased,,10,3
+12302,Male,,Deceased,42,8,4
+13603,Female,Planned,Alive,79,5,
+22503,Female,Not planned,Deceased,107,,2
+9003,,Not planned,Alive,23,5,7
+5604,Female,Not planned,Alive,76,9,
+3442,Female,Planned,Alive,27,10,6
+5436,Male,Planned,Deceased,35,6,4
+344,Female,Not planned,Alive,27,5,6
+24267,Male,Not planned,Deceased,35,6,4
+76554,Female,Planned,Deceased,43,8,4
+83345,Male,Planned,Deceased,3,8,3
+2331,Male,Not planned,Alive,33,4,2
+3765,Female,Planned,Alive,74,9,6
+47344,Male,Not planned,Deceased,21,10,3
+33656,Male,Planned,Alive,42,8,4
+,Female,Planned,Deceased,43,8,4
+,Female,Planned,Alive,12,3,8
+,Male,Not planned,Alive,33,4,2
+,Female,Planned,Alive,43,7,3
+,Male,Not planned,Deceased,21,3,2
+,Male,Planned,Alive,9,8,4

@@ -1,0 +1,399 @@
+"","id","sex","admtype","discharge","Age","PRISM","ndays"
+"1","04303","Female","Not planned","Alive",1,5,7
+"2","03304","Male","Not planned","Alive",83,14,4
+"3","18202","Male","Not planned","Alive",146,4,2
+"4","07704","Female","Planned","Alive",134,5,6
+"5","16402","Male","Not planned","Alive",81,10,3
+"6","12302","Male","Not planned","Alive",42,8,4
+"7","13603","Female","Planned","Alive",79,5,2
+"8","22503","Female","Not planned","Alive",107,2,2
+"9","09003","Male","Not planned","Alive",23,5,7
+"10","05604","Female","Not planned","Alive",76,9,16
+"11","11104","Male","Planned","Alive",193,16,2
+"12","01904","Female","Not planned","Alive",2,4,14
+"13","23003","Female","Not planned","Alive",15,0,3
+"14","06404","Male","Not planned","Alive",181,16,3
+"15","13603","Male","Not planned","Alive",47,12,3
+"16","00804","Female","Planned","Alive",47,4,3
+"17","01704","Male","Not planned","Alive",2,6,13
+"18","21202","Female","Not planned","Alive",31,17,19
+"19","14103","Female","Not planned","Alive",144,8,8
+"20","14503","Male","Not planned","Alive",24,1,5
+"21","05004","Male","Planned","Alive",13,8,2
+"22","05003","Male","Not planned","Alive",174,18,2
+"23","21003","Female","Planned","Alive",34,9,2
+"24","17402","Female","Planned","Alive",205,6,2
+"25","17903","Female","Not planned","Alive",13,4,2
+"26","06504","Female","Not planned","Alive",7,12,16
+"27","29802","Female","Not planned","Alive",7,16,19
+"28","14803","Female","Not planned","Alive",72,6,2
+"29","08003","Female","Not planned","Alive",68,10,23
+"30","05404","Male","Not planned","Alive",20,17,7
+"31","14203","Female","Planned","Alive",85,7,2
+"32","07604","Female","Planned","Alive",5,14,11
+"33","16003","Male","Not planned","Alive",180,16,2
+"34","27603","Male","Planned","Alive",61,0,5
+"35","18103","Male","Planned","Alive",69,1,1
+"36","29002","Female","Not planned","Alive",9,10,3
+"37","23203","Female","Not planned","Alive",49,20,7
+"38","04604","Female","Not planned","Alive",10,18,7
+"39","13802","Male","Not planned","Alive",43,6,3
+"40","24202","Male","Not planned","Alive",40,4,1
+"41","13303","Male","Not planned","Alive",16,7,3
+"42","04704","Female","Not planned","Alive",137,6,3
+"43","19003","Female","Not planned","Alive",73,15,3
+"44","00803","Female","Planned","Alive",5,5,2
+"45","26703","Female","Planned","Alive",2,13,2
+"46","15502","Male","Planned","Alive",10,2,2
+"47","07603","Male","Not planned","Alive",75,7,4
+"48","05903","Female","Planned","Alive",48,5,3
+"49","07903","Male","Not planned","Alive",30,12,4
+"50","22702","Female","Planned","Alive",165,10,7
+"51","02803","Female","Planned","Alive",153,4,3
+"52","13702","Male","Not planned","Alive",88,17,10
+"53","15004","Female","Planned","Alive",29,6,2
+"54","12802","Male","Not planned","Alive",5,13,12
+"55","07804","Male","Not planned","Alive",80,4,2
+"56","05903","Male","Not planned","Alive",64,10,4
+"57","04803","Female","Planned","Alive",114,0,2
+"58","11204","Male","Not planned","Alive",105,1,5
+"59","22203","Female","Planned","Alive",168,5,2
+"60","15103","Male","Planned","Alive",112,0,2
+"61","01003","Male","Not planned","Alive",16,17,3
+"62","02303","Male","Planned","Alive",52,4,3
+"63","03804","Male","Planned","Alive",123,2,3
+"64","23202","Male","Not planned","Alive",12,0,4
+"65","08804","Male","Not planned","Alive",5,13,10
+"66","10704","Male","Not planned","Alive",58,2,2
+"67","15003","Female","Planned","Alive",23,23,7
+"68","01003","Female","Planned","Alive",183,3,2
+"69","01403","Female","Not planned","Alive",134,10,6
+"70","00604","Male","Planned","Alive",102,8,2
+"71","16702","Female","Planned","Alive",1,6,2
+"72","24202","Female","Planned","Alive",179,7,3
+"73","13303","Female","Not planned","Alive",127,7,32
+"74","06103","Male","Not planned","Alive",96,16,3
+"75","19502","Male","Not planned","Alive",16,5,4
+"76","11503","Female","Not planned","Alive",201,1,8
+"77","05004","Female","Not planned","Alive",5,15,6
+"78","00503","Male","Not planned","Alive",3,5,5
+"79","16902","Female","Not planned","Alive",4,5,10
+"80","12003","Male","Not planned","Alive",36,11,6
+"81","00504","Male","Planned","Alive",57,4,5
+"82","15204","Male","Planned","Alive",14,1,2
+"83","16603","Male","Planned","Alive",55,2,3
+"84","01303","Male","Not planned","Alive",39,16,2
+"85","15702","Female","Planned","Alive",3,6,5
+"86","16202","Female","Planned","Alive",102,5,2
+"87","03504","Male","Not planned","Alive",115,11,3
+"88","10804","Female","Planned","Alive",95,2,2
+"89","24403","Female","Not planned","Alive",13,0,1
+"90","05304","Male","Not planned","Alive",4,8,23
+"91","09104","Male","Planned","Alive",1,9,15
+"92","11302","Male","Not planned","Alive",36,6,2
+"93","28202","Female","Not planned","Alive",71,11,4
+"94","15302","Male","Planned","Alive",92,1,2
+"95","13904","Male","Planned","Alive",3,11,2
+"96","19703","Male","Planned","Alive",56,9,13
+"97","22903","Female","Planned","Alive",17,4,2
+"98","23403","Male","Not planned","Alive",3,4,2
+"99","18403","Male","Planned","Alive",193,5,2
+"100","19603","Male","Planned","Alive",4,9,2
+"101","10704","Male","Not planned","Alive",125,19,18
+"102","03603","Female","Planned","Alive",1,8,2
+"103","30002","Male","Not planned","Alive",141,16,5
+"104","01403","Female","Not planned","Alive",24,6,3
+"105","08803","Male","Planned","Alive",124,1,3
+"106","24302","Male","Planned","Alive",30,7,3
+"107","14703","Male","Not planned","Alive",116,6,5
+"108","17403","Male","Not planned","Alive",24,6,5
+"109","18803","Male","Not planned","Alive",44,10,4
+"110","18703","Male","Not planned","Alive",138,15,10
+"111","08204","Male","Not planned","Alive",144,11,3
+"112","27902","Female","Planned","Alive",65,5,2
+"113","13503","Female","Not planned","Alive",134,18,2
+"114","14002","Male","Planned","Alive",4,13,3
+"115","00203","Female","Not planned","Alive",7,19,7
+"116","05503","Male","Not planned","Alive",5,13,2
+"117","03004","Male","Planned","Alive",108,2,3
+"118","10704","Male","Not planned","Alive",6,4,3
+"119","06903","Female","Planned","Alive",154,0,4
+"120","27102","Female","Not planned","Alive",112,11,3
+"121","03304","Male","Planned","Alive",1,4,2
+"122","23403","Female","Not planned","Alive",127,4,3
+"123","13403","Female","Not planned","Alive",1,9,50
+"124","21902","Female","Planned","Alive",147,18,3
+"125","30802","Male","Not planned","Alive",18,4,3
+"126","24502","Female","Not planned","Alive",11,15,4
+"127","24002","Male","Planned","Alive",107,4,4
+"128","10803","Male","Not planned","Alive",67,0,5
+"129","21702","Male","Not planned","Alive",13,0,10
+"130","21502","Female","Not planned","Alive",57,0,2
+"131","08404","Male","Not planned","Alive",6,9,4
+"132","28202","Female","Planned","Alive",86,7,3
+"133","25002","Female","Not planned","Alive",2,6,4
+"134","01003","Male","Not planned","Alive",12,3,5
+"135","19602","Female","Not planned","Alive",62,4,14
+"136","00403","Male","Not planned","Alive",6,6,2
+"137","28902","Female","Not planned","Alive",95,4,2
+"138","07603","Male","Not planned","Alive",1,4,14
+"139","18103","Male","Not planned","Alive",27,4,2
+"140","07803","Male","Planned","Alive",199,8,2
+"141","05503","Male","Not planned","Alive",18,26,6
+"142","01103","Male","Not planned","Alive",53,18,44
+"143","05103","Female","Not planned","Alive",53,13,37
+"144","20503","Male","Planned","Alive",17,0,2
+"145","20003","Female","Planned","Alive",177,8,2
+"146","18903","Male","Not planned","Alive",2,22,20
+"147","26502","Male","Not planned","Alive",30,2,2
+"148","20502","Female","Planned","Alive",45,10,3
+"149","02503","Female","Planned","Alive",5,2,8
+"150","30602","Male","Not planned","Alive",31,10,4
+"151","08804","Female","Planned","Alive",35,10,5
+"152","22703","Male","Not planned","Alive",19,31,7
+"153","10503","Female","Not planned","Alive",1,11,5
+"154","07204","Female","Not planned","Alive",10,11,8
+"155","07703","Male","Not planned","Alive",11,0,3
+"156","09402","Male","Not planned","Alive",169,10,12
+"157","28402","Female","Planned","Alive",111,5,2
+"158","33703","Female","Not planned","Alive",7,25,10
+"159","20103","Female","Not planned","Alive",46,18,4
+"160","20302","Female","Planned","Alive",78,4,2
+"161","05404","Female","Not planned","Alive",11,8,12
+"162","14403","Male","Not planned","Alive",33,8,4
+"163","29202","Male","Planned","Alive",2,11,9
+"164","05004","Female","Not planned","Alive",53,16,7
+"165","02604","Female","Not planned","Alive",135,8,2
+"166","16302","Female","Not planned","Alive",11,21,14
+"167","34102","Female","Not planned","Alive",34,15,7
+"168","01204","Female","Planned","Alive",20,6,7
+"169","02504","Male","Not planned","Alive",5,2,2
+"170","12003","Male","Not planned","Alive",20,21,10
+"171","10204","Male","Not planned","Alive",1,4,3
+"172","11304","Male","Not planned","Alive",26,10,13
+"173","23603","Female","Not planned","Alive",64,4,3
+"174","14103","Male","Not planned","Alive",65,4,7
+"175","13003","Female","Planned","Alive",46,1,2
+"176","17202","Male","Planned","Alive",48,5,3
+"177","02603","Female","Planned","Alive",195,1,2
+"178","32703","Male","Not planned","Alive",77,8,4
+"179","28003","Female","Planned","Alive",3,4,2
+"180","08004","Female","Not planned","Alive",21,7,3
+"181","14603","Female","Planned","Alive",75,9,13
+"182","03103","Female","Not planned","Alive",72,11,12
+"183","23303","Female","Planned","Alive",2,11,4
+"184","07103","Female","Not planned","Alive",22,17,4
+"185","16602","Male","Planned","Alive",4,4,2
+"186","22002","Male","Not planned","Alive",1,15,10
+"187","27802","Female","Not planned","Alive",47,9,9
+"188","32103","Female","Not planned","Alive",14,7,18
+"189","05904","Female","Not planned","Alive",9,26,18
+"190","09302","Male","Not planned","Alive",15,1,2
+"191","21303","Male","Not planned","Alive",100,21,11
+"192","01004","Female","Not planned","Alive",3,22,17
+"193","09204","Female","Not planned","Alive",34,1,3
+"194","11903","Male","Planned","Alive",1,6,5
+"195","15104","Female","Planned","Alive",152,6,2
+"196","08704","Male","Planned","Alive",151,12,4
+"197","04204","Female","Not planned","Alive",5,13,17
+"198","05303","Female","Not planned","Alive",8,7,3
+"199","07403","Female","Not planned","Alive",35,1,2
+"200","33503","Male","Planned","Alive",150,12,2
+"201","13203","Male","Not planned","Alive",144,6,4
+"202","19402","Male","Not planned","Alive",21,14,13
+"203","16503","Female","Planned","Alive",109,6,3
+"204","04404","Female","Planned","Alive",8,4,4
+"205","16403","Female","Not planned","Alive",13,7,4
+"206","23203","Male","Planned","Alive",130,0,2
+"207","04804","Female","Not planned","Alive",1,4,7
+"208","10004","Male","Planned","Alive",8,6,14
+"209","26002","Male","Not planned","Alive",179,4,2
+"210","08303","Female","Not planned","Alive",10,15,15
+"211","21203","Female","Not planned","Alive",66,4,7
+"212","19602","Female","Planned","Alive",87,2,5
+"213","24603","Male","Planned","Alive",11,9,2
+"214","04703","Male","Not planned","Alive",103,10,4
+"215","30403","Female","Planned","Alive",78,6,1
+"216","10903","Male","Not planned","Alive",87,6,2
+"217","20702","Female","Not planned","Alive",2,5,3
+"218","04203","Female","Not planned","Alive",1,20,6
+"219","18302","Male","Not planned","Alive",98,0,3
+"220","16803","Male","Not planned","Alive",97,8,18
+"221","06803","Male","Not planned","Alive",2,15,15
+"222","16003","Male","Planned","Alive",165,7,3
+"223","07003","Female","Not planned","Alive",45,3,2
+"224","30303","Female","Not planned","Alive",2,9,3
+"225","06303","Female","Planned","Alive",139,0,2
+"226","21802","Female","Planned","Alive",30,3,3
+"227","19803","Male","Not planned","Alive",136,12,12
+"228","22502","Male","Not planned","Alive",22,1,2
+"229","11703","Female","Planned","Alive",120,12,2
+"230","18303","Male","Not planned","Alive",184,4,4
+"231","16103","Male","Planned","Alive",141,0,2
+"232","13602","Female","Planned","Alive",1,7,30
+"233","03203","Male","Not planned","Alive",21,4,4
+"234","04304","Female","Planned","Alive",184,7,2
+"235","07504","Male","Not planned","Alive",3,8,3
+"236","15003","Male","Planned","Alive",41,7,3
+"237","11803","Female","Not planned","Alive",19,21,4
+"238","14403","Male","Planned","Alive",105,6,3
+"239","05904","Male","Not planned","Alive",3,4,6
+"240","20803","Male","Not planned","Alive",164,4,4
+"241","31403","Male","Not planned","Alive",6,10,26
+"242","15002","Female","Not planned","Alive",61,14,12
+"243","22803","Female","Not planned","Alive",20,0,3
+"244","04203","Male","Not planned","Alive",146,23,15
+"245","16503","Female","Not planned","Alive",120,6,3
+"246","07104","Male","Not planned","Alive",44,8,7
+"247","05504","Male","Planned","Alive",88,6,4
+"248","04703","Male","Not planned","Alive",10,14,19
+"249","14502","Female","Planned","Alive",11,16,5
+"250","16102","Male","Not planned","Alive",10,8,8
+"251","20903","Male","Not planned","Alive",56,0,7
+"252","18503","Female","Planned","Alive",43,5,2
+"253","08404","Female","Planned","Alive",36,5,2
+"254","15203","Male","Planned","Alive",118,7,2
+"255","08104","Female","Not planned","Alive",121,17,3
+"256","12902","Female","Not planned","Alive",80,15,23
+"257","03703","Male","Not planned","Alive",61,13,6
+"258","07304","Male","Not planned","Alive",13,9,6
+"259","15303","Male","Not planned","Alive",49,13,24
+"260","22802","Male","Not planned","Alive",94,4,8
+"261","24203","Female","Not planned","Alive",79,5,14
+"262","03604","Female","Planned","Alive",148,6,6
+"263","04504","Male","Not planned","Alive",9,1,21
+"264","07604","Female","Not planned","Alive",169,7,3
+"265","25502","Male","Not planned","Alive",102,6,4
+"266","03803","Male","Not planned","Alive",39,0,2
+"267","13703","Male","Planned","Alive",20,5,7
+"268","06603","Male","Not planned","Alive",3,7,4
+"269","09804","Male","Not planned","Alive",1,11,15
+"270","23302","Female","Planned","Alive",110,5,2
+"271","01604","Male","Planned","Alive",5,14,2
+"272","10302","Male","Not planned","Alive",46,3,4
+"273","07503","Male","Planned","Alive",2,5,2
+"274","00903","Male","Not planned","Alive",119,7,2
+"275","21602","Female","Planned","Alive",63,0,2
+"276","06403","Male","Not planned","Alive",19,8,6
+"277","12903","Female","Planned","Alive",67,0,1
+"278","17502","Male","Planned","Alive",1,1,2
+"279","21102","Male","Not planned","Alive",67,10,35
+"280","32203","Female","Planned","Alive",22,5,2
+"281","09404","Female","Not planned","Alive",48,25,8
+"282","05703","Male","Planned","Alive",6,7,2
+"283","06704","Female","Not planned","Alive",56,4,5
+"284","21503","Female","Planned","Alive",148,4,2
+"285","33103","Female","Not planned","Alive",47,11,17
+"286","16602","Male","Planned","Alive",38,4,2
+"287","20102","Female","Planned","Alive",4,2,2
+"288","32303","Male","Not planned","Alive",4,9,36
+"289","02904","Female","Planned","Alive",6,1,2
+"290","20502","Male","Not planned","Alive",11,17,3
+"291","28102","Male","Not planned","Alive",29,4,4
+"292","06403","Female","Not planned","Alive",48,6,3
+"293","02504","Female","Not planned","Alive",29,10,4
+"294","22302","Male","Not planned","Alive",6,13,8
+"295","06604","Female","Planned","Alive",92,8,2
+"296","25002","Male","Not planned","Alive",108,19,14
+"297","09504","Female","Planned","Alive",10,1,5
+"298","27602","Female","Not planned","Alive",144,12,13
+"299","10603","Male","Planned","Alive",101,14,3
+"300","19203","Male","Not planned","Alive",38,12,19
+"301","18003","Male","Not planned","Alive",41,11,28
+"302","09903","Male","Not planned","Alive",95,5,5
+"303","25402","Male","Not planned","Alive",2,13,5
+"304","31402","Male","Not planned","Alive",1,15,5
+"305","32403","Male","Not planned","Alive",1,36,13
+"306","26202","Male","Not planned","Alive",70,0,3
+"307","23803","Female","Not planned","Alive",28,3,2
+"308","18702","Male","Not planned","Alive",74,12,2
+"309","18203","Male","Not planned","Alive",12,6,14
+"310","04503","Male","Planned","Alive",5,6,1
+"311","27302","Male","Planned","Alive",81,5,3
+"312","01903","Male","Not planned","Alive",1,4,6
+"313","23903","Female","Not planned","Alive",125,9,3
+"314","09904","Male","Planned","Alive",18,9,2
+"315","31902","Male","Not planned","Alive",2,9,3
+"316","12402","Male","Not planned","Alive",105,19,12
+"317","11603","Female","Not planned","Alive",3,8,4
+"318","24003","Male","Not planned","Alive",2,1,8
+"319","10003","Male","Not planned","Alive",11,4,28
+"320","02704","Male","Not planned","Alive",1,6,8
+"321","21203","Female","Planned","Alive",66,6,1
+"322","09204","Female","Planned","Alive",35,13,5
+"323","27103","Male","Not planned","Alive",13,19,10
+"324","11404","Female","Not planned","Alive",2,9,10
+"325","16202","Female","Not planned","Alive",3,13,15
+"326","22003","Male","Planned","Alive",2,0,8
+"327","18603","Male","Planned","Alive",207,6,2
+"328","02703","Male","Planned","Alive",100,8,5
+"329","11803","Male","Planned","Alive",7,8,2
+"330","21502","Male","Not planned","Alive",52,9,19
+"331","30302","Male","Not planned","Alive",7,13,4
+"332","08904","Male","Not planned","Alive",186,0,13
+"333","06703","Female","Not planned","Alive",155,0,4
+"334","19302","Male","Not planned","Alive",107,6,3
+"335","02903","Male","Not planned","Alive",11,0,5
+"336","14802","Male","Not planned","Alive",1,11,3
+"337","04304","Male","Not planned","Alive",5,5,5
+"338","04004","Female","Planned","Alive",1,4,5
+"339","09304","Male","Planned","Alive",3,7,11
+"340","03504","Male","Not planned","Alive",1,14,19
+"341","11803","Male","Not planned","Alive",186,18,13
+"342","15703","Female","Not planned","Alive",105,15,8
+"343","14804","Male","Planned","Alive",19,4,3
+"344","28803","Male","Not planned","Alive",2,9,9
+"345","14303","Male","Not planned","Alive",92,5,6
+"346","18102","Male","Not planned","Alive",38,26,8
+"347","01703","Male","Planned","Alive",148,11,3
+"348","11604","Female","Not planned","Alive",3,8,67
+"349","30902","Male","Not planned","Alive",3,8,11
+"350","06403","Male","Not planned","Alive",128,16,2
+"351","09604","Female","Not planned","Alive",35,15,96
+"352","26903","Female","Not planned","Alive",5,0,2
+"353","10204","Male","Planned","Alive",1,0,2
+"354","23903","Female","Planned","Alive",1,7,6
+"355","12204","Female","Planned","Alive",5,4,3
+"356","08204","Female","Planned","Alive",208,13,3
+"357","16703","Male","Planned","Alive",113,4,2
+"358","05604","Male","Not planned","Alive",92,2,3
+"359","18802","Female","Planned","Alive",136,0,3
+"360","11503","Male","Not planned","Alive",2,8,2
+"361","03404","Female","Not planned","Alive",175,4,11
+"362","23003","Male","Planned","Alive",2,7,2
+"363","15803","Female","Planned","Alive",37,4,1
+"364","03904","Male","Not planned","Alive",2,7,3
+"365","13603","Male","Not planned","Alive",27,3,3
+"366","05403","Female","Not planned","Alive",11,5,2
+"367","26103","Male","Planned","Alive",196,3,3
+"368","13804","Male","Not planned","Alive",11,8,3
+"369","14903","Male","Not planned","Alive",57,10,4
+"370","34303","Male","Not planned","Alive",38,1,2
+"371","05204","Female","Not planned","Alive",38,11,4
+"372","25003","Female","Not planned","Alive",52,12,6
+"373","19003","Male","Not planned","Alive",21,33,75
+"374","19703","Female","Not planned","Alive",167,6,9
+"375","32503","Female","Not planned","Alive",94,1,3
+"376","08504","Female","Planned","Alive",1,18,7
+"377","05504","Male","Not planned","Alive",1,13,11
+"378","21302","Male","Planned","Alive",154,7,2
+"379","06604","Male","Planned","Alive",29,6,4
+"380","09704","Female","Planned","Alive",94,4,1
+"381","05704","Female","Not planned","Alive",10,3,5
+"382","16402","Male","Planned","Alive",134,5,4
+"383","17702","Male","Not planned","Alive",149,4,3
+"384","03303","Female","Not planned","Alive",99,10,3
+"385","02603","Female","Not planned","Alive",1,7,6
+"386","21902","Male","Not planned","Alive",13,0,2
+"387","12103","Male","Planned","Alive",136,4,4
+"388","17602","Male","Not planned","Alive",105,11,81
+"389","21003","Male","Not planned","Alive",166,12,4
+"390","17002","Male","Planned","Alive",17,6,2
+"391","16702","Male","Not planned","Alive",179,4,11
+"392","08204","Male","Planned","Alive",15,7,4
+"393","10504","Female","Not planned","Alive",7,17,17
+"394","13104","Male","Not planned","Alive",79,13,6
+"395","02103","Female","Not planned","Alive",33,0,2
+"396","26602","Female","Not planned","Alive",170,2,19
+"397","26003","Female","Planned","Alive",17,2,3
+"398","03703","Male","Not planned","Alive",157,0,2
